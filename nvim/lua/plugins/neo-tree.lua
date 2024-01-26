@@ -8,7 +8,14 @@ return {
     opts = {
       window = {
         mappings = {
-          ["o"] = { "open", nowait = true },
+          ["o"] = { "open" },
+          ["oc"] = "",
+          ["od"] = "",
+          ["og"] = "",
+          ["om"] = "",
+          ["on"] = "",
+          ["os"] = "",
+          ["ot"] = "",
         },
       },
     },
