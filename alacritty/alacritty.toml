@@ -1,0 +1,40 @@
+import = ["/Users/ls/.config/alacritty/themes/themes/tokyo-night.toml"]
+live_config_reload = true
+
+[font]
+# AppleFontSmoothing = true
+size = 14.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[[keyboard.bindings]]
+chars = ":w"
+key = "S"
+mods = "Command"
+
+[[keyboard.bindings]]
+chars = "6j"
+key = "J"
+mods = "Control"
+
+[[keyboard.bindings]]
+chars = "6k"
+key = "K"
+mods = "Control"
+
+[selection]
+semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
+
+[shell]
+program = "/opt/homebrew/bin/fish"
+
+[window]
+decorations = "buttonless"
+dynamic_padding = false
+option_as_alt = "OnlyLeft"
+
+[window.padding]
+x = 18
+y = 16

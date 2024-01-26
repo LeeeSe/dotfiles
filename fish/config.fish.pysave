@@ -1,0 +1,17 @@
+if status is-interactive
+    # Commands to run in interactive sessions can go here
+end
+
+alias build="cargo build --release"
+alias run="cargo run"
+alias clone="git clone"
+alias vif="vs ~/.config/fish/config.fish"
+alias via="vs ~/.config/alacritty/alacritty.yml"
+alias vs="code"
+alias vi="vs"
+export https_proxy=http://127.0.0.1:6152;export http_proxy=http://127.0.0.1:6152;export all_proxy=socks5://127.0.0.1:6153
+export PATH="$HOME/.cargo/bin:$PATH"
+export PATH="$HOME/cmd:$PATH"
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+
+
