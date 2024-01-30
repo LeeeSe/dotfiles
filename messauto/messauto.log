@@ -1,14 +1,8 @@
-03:40:59 [INFO] 日志初始化完成
-03:40:59 [INFO] 检测到并设置App语言为：zh-CN
-03:41:00 [INFO] 成功获取磁盘访问权限
-03:41:00 [INFO] 最新版本号: 63
-03:41:00 [INFO] 当前版本号: 63
-03:41:01 [INFO] 最新版本号: 63
-03:41:01 [INFO] 当前版本号: 63
-03:41:01 [INFO] 当前已是最新版本
-06:09:06 [INFO] 收到新邮件: "/Users/ls/Library/Mail/V10/039FC170-7172-4826-B037-D53364809086/INBOX.mbox/F8EE9587-54E6-44F5-8952-937495719DF7/Data/Messages/819.emlx.tmp"
-06:09:06 [INFO] len: 693
-06:09:06 [INFO] 邮件内容："> In many tests, it never completes, the top right corner always says \"Fetching completion...\" and rust-ana's completion function fails. The completion function of rust-ana also failed. But when I was about to give up, I opened it once and suddenly everything worked again, all completions were completed, I can't guess why this happened!\n\nNot sure what's going on then. If you can find a way to reproduce let me know but I'll keep an eye on this anyway.\n\n-- \nReply to this email directly or view it on GitHub:\nhttps://github.com/leona/helix-gpt/issues/13#issuecomment-1916085784\nYou are receiving this because you were mentioned.\n\nMessage ID: <leona/helix-gpt/issues/13/1916085784@github.com>"
-06:09:11 [INFO] 收到新邮件: "/Users/ls/Library/Mail/V10/039FC170-7172-4826-B037-D53364809086/INBOX.mbox/F8EE9587-54E6-44F5-8952-937495719DF7/Data/Messages/820.emlx.tmp"
-06:09:11 [INFO] len: 336
-06:09:11 [INFO] 邮件内容："@LeeeSe Did none of the previous completions go through, or was it just the last one that failed?\n\n-- \nReply to this email directly or view it on GitHub:\nhttps://github.com/leona/helix-gpt/issues/13#issuecomment-1916035812\nYou are receiving this because you were mentioned.\n\nMessage ID: <leona/helix-gpt/issues/13/1916035812@github.com>"
+15:04:53 [INFO] 日志初始化完成
+15:04:53 [INFO] 检测到并设置App语言为：zh-CN
+15:04:53 [INFO] 成功获取磁盘访问权限
+15:04:53 [INFO] 最新版本号: 63
+15:04:53 [INFO] 当前版本号: 63
+15:04:54 [INFO] 最新版本号: 63
+15:04:54 [INFO] 当前版本号: 63
+15:04:54 [INFO] 当前已是最新版本
