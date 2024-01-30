@@ -1,18 +1,14 @@
-05:12:41 [INFO] 日志初始化完成
-05:12:41 [INFO] 检测到并设置App语言为：zh-CN
-05:12:41 [INFO] 成功获取磁盘访问权限
-05:12:41 [INFO] 最新版本号: 63
-05:12:41 [INFO] 当前版本号: 63
-05:12:42 [INFO] 最新版本号: 63
-05:12:42 [INFO] 当前版本号: 63
-05:12:42 [INFO] 当前已是最新版本
-05:25:36 [INFO] 检测到新的验证码类型信息："【知乎】你的验证码是 640863，此验证码用于登录知乎或重置密码。10 分钟内有效。\n"
-05:25:36 [INFO] 所有可能的验证码为:["640863"]
-05:25:36 [INFO] 提取到真正的验证码:"640863"
-05:25:37 [INFO] 粘贴验证码
-05:25:37 [INFO] 执行回车
-08:25:50 [INFO] 检测到新的验证码类型信息："【CSDN】验证码772447，您正在使用短信验证码登录，有效期10分钟，请勿泄露。\n"
-08:25:50 [INFO] 所有可能的验证码为:["772447"]
-08:25:50 [INFO] 提取到真正的验证码:"772447"
-08:25:51 [INFO] 粘贴验证码
-08:25:51 [INFO] 执行回车
+03:40:59 [INFO] 日志初始化完成
+03:40:59 [INFO] 检测到并设置App语言为：zh-CN
+03:41:00 [INFO] 成功获取磁盘访问权限
+03:41:00 [INFO] 最新版本号: 63
+03:41:00 [INFO] 当前版本号: 63
+03:41:01 [INFO] 最新版本号: 63
+03:41:01 [INFO] 当前版本号: 63
+03:41:01 [INFO] 当前已是最新版本
+06:09:06 [INFO] 收到新邮件: "/Users/ls/Library/Mail/V10/039FC170-7172-4826-B037-D53364809086/INBOX.mbox/F8EE9587-54E6-44F5-8952-937495719DF7/Data/Messages/819.emlx.tmp"
+06:09:06 [INFO] len: 693
+06:09:06 [INFO] 邮件内容："> In many tests, it never completes, the top right corner always says \"Fetching completion...\" and rust-ana's completion function fails. The completion function of rust-ana also failed. But when I was about to give up, I opened it once and suddenly everything worked again, all completions were completed, I can't guess why this happened!\n\nNot sure what's going on then. If you can find a way to reproduce let me know but I'll keep an eye on this anyway.\n\n-- \nReply to this email directly or view it on GitHub:\nhttps://github.com/leona/helix-gpt/issues/13#issuecomment-1916085784\nYou are receiving this because you were mentioned.\n\nMessage ID: <leona/helix-gpt/issues/13/1916085784@github.com>"
+06:09:11 [INFO] 收到新邮件: "/Users/ls/Library/Mail/V10/039FC170-7172-4826-B037-D53364809086/INBOX.mbox/F8EE9587-54E6-44F5-8952-937495719DF7/Data/Messages/820.emlx.tmp"
+06:09:11 [INFO] len: 336
+06:09:11 [INFO] 邮件内容："@LeeeSe Did none of the previous completions go through, or was it just the last one that failed?\n\n-- \nReply to this email directly or view it on GitHub:\nhttps://github.com/leona/helix-gpt/issues/13#issuecomment-1916035812\nYou are receiving this because you were mentioned.\n\nMessage ID: <leona/helix-gpt/issues/13/1916035812@github.com>"

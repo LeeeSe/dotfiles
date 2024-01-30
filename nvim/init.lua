@@ -9,6 +9,7 @@ if vim.g.neovide then
   vim.g.neovide_padding_left = 20
 
   vim.keymap.set("n", "<D-s>", ":w<CR>") -- Save
+  vim.keymap.set("i", "<D-s>", "<ESC>:w<CR>") -- Save
   vim.keymap.set("v", "<D-c>", '"+y') -- Copy
   vim.keymap.set("n", "<D-v>", '"+P') -- Paste normal mode
   vim.keymap.set("v", "<D-v>", '"+P') -- Paste visual mode

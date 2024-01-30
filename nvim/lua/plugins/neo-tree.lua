@@ -6,7 +6,9 @@ return {
     cmd = "Neotree",
 
     opts = {
+      close_if_last_window = true,
       window = {
+        width = 25,
         mappings = {
           ["o"] = { "open" },
           ["oc"] = "",

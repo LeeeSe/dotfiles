@@ -10,19 +10,19 @@ family = "JetBrainsMono Nerd Font"
 style = "Regular"
 
 [[keyboard.bindings]]
-chars = ":w"
+chars = "\u0013"
 key = "S"
 mods = "Command"
 
-[[keyboard.bindings]]
-chars = "6j"
-key = "J"
-mods = "Control"
+# [[keyboard.bindings]]
+# chars = "6j"
+# key = "J"
+# mods = "Control"
 
-[[keyboard.bindings]]
-chars = "6k"
-key = "K"
-mods = "Control"
+# [[keyboard.bindings]]
+# chars = "6k"
+# key = "K"
+# mods = "Control"
 
 [selection]
 semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
