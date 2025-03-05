@@ -1,8 +1,4 @@
-15:04:53 [INFO] 日志初始化完成
-15:04:53 [INFO] 检测到并设置App语言为：zh-CN
-15:04:53 [INFO] 成功获取磁盘访问权限
-15:04:53 [INFO] 最新版本号: 63
-15:04:53 [INFO] 当前版本号: 63
-15:04:54 [INFO] 最新版本号: 63
-15:04:54 [INFO] 当前版本号: 63
-15:04:54 [INFO] 当前已是最新版本
+15:45:54 [INFO] Log initialization completed
+15:45:54 [INFO] Detect and set App language to: zh-CN
+15:45:54 [INFO] 成功获取磁盘访问权限
+15:45:54 [INFO] zh-CN.accessibility-permission-granted

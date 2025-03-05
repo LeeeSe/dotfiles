@@ -1,0 +1,19 @@
+{
+  "$schema" : "https:\/\/schema.linearmouse.app\/0.10.0",
+  "schemes" : [
+    {
+      "if" : {
+        "device" : {
+          "productID" : "0xf013",
+          "vendorID" : "0x2023",
+          "productName" : "MCHOSE A5 2.4G",
+          "serialNumber" : "A54F5F02",
+          "category" : "mouse"
+        }
+      },
+      "pointer" : {
+        "disableAcceleration" : true
+      }
+    }
+  ]
+}
